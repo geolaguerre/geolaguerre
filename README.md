@@ -62,11 +62,6 @@ tooling:   [MCP, NLP, Jira, Confluence]
 
 <img src="https://skillicons.dev/icons?i=python,docker,git,linux,gcp,ts,jira,confluence&theme=dark" alt="Stack icons" />
 
-<br/><br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Geobatpo07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geobatpo07&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="Top languages" />
-
 </div>
 
 ## `contact --all`
